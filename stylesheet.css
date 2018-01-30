@@ -1,6 +1,7 @@
 body{
-  font-family: 'Arial',serif;
+  font-family: 'amigo',serif;
   background-color: #FFE5CC;
+
 }
 
 .nav{
@@ -29,7 +30,13 @@ body{
 .footer{
   background-color: #880000;
   color: #FFFFFF;
+  width: auto;
 }
+
+.foottable{
+  padding-left: 10px;
+}
+
 .menupics{
   text-align: center;
 }
@@ -47,4 +54,19 @@ body{
 
 .logo{
   text-align: center;
+}
+
+.dineintakeout{
+  background-color: #880000;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 15px 0 15px 0;
+  font-size: 30px;
+  width: 100%;
+  font-family: 'amigo';
+}
+
+#map{
+  text-align: right;
 }
