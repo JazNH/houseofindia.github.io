@@ -1,0 +1,14 @@
+.menuboarder{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.headerForVirus {
+    padding: 6px;
+    text-align: center;
+    background: yellow;
+    color: white;
+    font-size: 10px;
+    color: black;
+}
